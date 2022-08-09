@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @withrahul
+- 👋 Hi, I’m Rahul kumar barnwal
 - 👀 I’m interested in learning how to work on open source projects.
 - 🌱 I’m currently learning c language and web development.
 - 💞️ I’m looking to collaborate on web development projects.
